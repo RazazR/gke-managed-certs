@@ -12,7 +12,7 @@ require (
 	github.com/prometheus/client_golang v1.0.0
 	github.com/prometheus/procfs v0.0.11 // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/api v0.29.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/gcfg.v1 v1.2.3
